@@ -1,11 +1,11 @@
-﻿import { useState } from 'react'
-import { Card, Button, Input } from '../../components/common'
+import { useState } from 'react'
+import { Card, Button } from '../../components/common'
 import { useAppStore } from '../../stores'
 import { syncLargeRange, resyncOpeningResults } from '../../services/dataSyncService'
 import './Settings.css'
 
 function Settings() {
-    const { theme, toggleTheme, isAutoSyncEnabled, toggleAutoSync, apiKey, setApiKey, hasApiKey } = useAppStore()
+    const { isAutoSyncEnabled, toggleAutoSync } = useAppStore()
     const [isSyncing, setIsSyncing] = useState(false)
     const [syncProgress, setSyncProgress] = useState({ current: 0, total: 0, meta: null })
     const [syncLogs, setSyncLogs] = useState([])
@@ -25,16 +25,9 @@ function Settings() {
     })
 
     const [incremental, setIncremental] = useState(false)
-    const [apiKeyDraft, setApiKeyDraft] = useState(apiKey || '')
 
     const appendLog = (message) => {
         setSyncLogs((prev) => [{ id: Date.now(), message }, ...prev].slice(0, 200))
-    }
-
-    const handleSaveApiKey = () => {
-        const trimmed = apiKeyDraft.trim()
-        setApiKey(trimmed)
-        alert(trimmed ? 'API 키가 저장되었습니다.' : 'API 키가 삭제되었습니다.')
     }
 
     const handleSync = async () => {
@@ -160,45 +153,12 @@ function Settings() {
         <div className="settings-page">
             <h1 className="text-h1">설정</h1>
 
-            <Card title="API 키" className="mt-6">
-                <p className="text-body-sm text-secondary mb-4">
-                    공공데이터포털 ServiceKey를 입력하면 나라장터 API 연동이 동작합니다. (저장 위치: 브라우저 LocalStorage)
-                </p>
-                <div className="api-key-row">
-                    <div className="api-key-input">
-                        <Input
-                            label="ServiceKey"
-                            type="password"
-                            placeholder="ServiceKey를 입력하세요"
-                            value={apiKeyDraft}
-                            onChange={(e) => setApiKeyDraft(e.target.value)}
-                            clearable
-                            onClear={() => setApiKeyDraft('')}
-                        />
-                        <p className="text-caption text-secondary mt-1">
-                            상태: {hasApiKey() ? '설정됨' : '미설정'}
-                        </p>
-                    </div>
-                    <Button variant="primary" onClick={handleSaveApiKey} className="api-key-save">
-                        저장
-                    </Button>
-                </div>
-            </Card>
 
-            <Card title="테마 설정" className="mt-6">
-                <div className="theme-toggle">
-                    <span className="text-body">현재 테마: {theme === 'light' ? '라이트' : '다크'}</span>
-                    <Button variant="secondary" onClick={toggleTheme}>
-                        {theme === 'light' ? '다크 모드로 전환' : '라이트 모드로 전환'}
-                    </Button>
-                </div>
-            </Card>
 
             <Card title="데이터 동기화" className="mt-6">
                 <p className="text-body-sm text-secondary mb-4">
                     공고/낙찰/계약/업체 데이터를 선택한 범위로 동기화합니다.
                 </p>
-
                 <div className="flex items-center justify-between p-4 bg-gray-50 rounded-lg mb-6 border border-gray-100">
                     <div>
                         <h3 className="text-h3 text-gray-800">🔄 자동 동기화</h3>
