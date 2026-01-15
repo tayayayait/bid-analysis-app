@@ -1,0 +1,189 @@
+/**
+ * 디자인 토큰 - 상세서.md 기반
+ * 공공데이터 기반 입찰 패턴 분석 시스템
+ */
+
+:root {
+  /* ========================================
+   * 1. Primary Colors (주요 색상)
+   * ======================================== */
+  --color-primary-50:  #E3F2FD;
+  --color-primary-100: #BBDEFB;
+  --color-primary-200: #90CAF9;
+  --color-primary-300: #64B5F6;
+  --color-primary-400: #42A5F5;
+  --color-primary-500: #1976D2; /* 메인 브랜드 컬러 */
+  --color-primary-600: #1565C0;
+  --color-primary-700: #0D47A1;
+  --color-primary-800: #0A3D91;
+  --color-primary-900: #062B6E;
+
+  /* ========================================
+   * 2. Semantic Colors (의미론적 색상)
+   * ======================================== */
+  --color-success: #2E7D32;   /* 낙찰, 성공 */
+  --color-warning: #ED6C02;   /* 주의, 경고 구간 */
+  --color-error:   #D32F2F;   /* 유찰, 실패 */
+  --color-info:    #0288D1;   /* 정보, 안내 */
+  
+  /* 투찰률 구간 시각화 */
+  --color-bid-hot:     #EF5350; /* 과열 구간 (경쟁 집중) */
+  --color-bid-warm:    #FF9800; /* 주의 구간 */
+  --color-bid-normal:  #4CAF50; /* 적정 구간 */
+  --color-bid-cold:    #42A5F5; /* 저조 구간 */
+  --color-bid-optimal: #7C4DFF; /* 최적 추천 구간 */
+
+  /* ========================================
+   * 3. Neutral Colors (중립 색상)
+   * ======================================== */
+  /* 배경 */
+  --color-bg-primary:   #FFFFFF;
+  --color-bg-secondary: #F5F7FA;
+  --color-bg-tertiary:  #E8ECF2;
+  --color-bg-dark:      #1E293B; /* 다크모드 배경 */
+  
+  /* 텍스트 */
+  --color-text-primary:   #1E293B; /* 제목, 주요 텍스트 */
+  --color-text-secondary: #64748B; /* 부가 설명 */
+  --color-text-tertiary:  #94A3B8; /* Placeholder, 비활성 */
+  --color-text-inverse:   #FFFFFF; /* 다크 배경 위 텍스트 */
+  
+  /* 경계선 */
+  --color-border-light:  #E2E8F0;
+  --color-border-medium: #CBD5E1;
+  --color-border-dark:   #94A3B8;
+
+  /* ========================================
+   * 4. Chart Colors (차트 전용 팔레트)
+   * ======================================== */
+  --chart-color-1: #1976D2; /* Primary Blue */
+  --chart-color-2: #00897B; /* Teal */
+  --chart-color-3: #7B1FA2; /* Purple */
+  --chart-color-4: #F57C00; /* Orange */
+  --chart-color-5: #C2185B; /* Pink */
+  --chart-color-6: #388E3C; /* Green */
+  --chart-color-7: #5D4037; /* Brown */
+  --chart-color-8: #455A64; /* Blue Grey */
+
+  /* ========================================
+   * 5. Typography (타이포그래피)
+   * ======================================== */
+  /* 폰트 패밀리 */
+  --font-family-primary: 
+    'Pretendard Variable', 
+    'Pretendard', 
+    -apple-system, 
+    BlinkMacSystemFont, 
+    'Segoe UI', 
+    Roboto, 
+    'Noto Sans KR',
+    sans-serif;
+  
+  --font-family-monospace: 
+    'JetBrains Mono', 
+    'Fira Code', 
+    'Consolas', 
+    monospace;
+
+  /* 폰트 크기 */
+  --font-size-display: 32px;
+  --font-size-h1: 24px;
+  --font-size-h2: 20px;
+  --font-size-h3: 16px;
+  --font-size-body: 14px;
+  --font-size-body-sm: 13px;
+  --font-size-caption: 12px;
+
+  /* 폰트 Weight */
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* ========================================
+   * 6. Spacing (간격) - 8px 기반
+   * ======================================== */
+  --space-0:  0px;
+  --space-1:  4px;   /* 최소 간격 */
+  --space-2:  8px;   /* 요소 내부 */
+  --space-3:  12px;  /* 관련 요소 간 */
+  --space-4:  16px;  /* 기본 간격 */
+  --space-5:  20px;  /* 섹션 내부 */
+  --space-6:  24px;  /* 카드 패딩 */
+  --space-8:  32px;  /* 섹션 간 */
+  --space-10: 40px;  /* 주요 영역 간 */
+  --space-12: 48px;  /* 페이지 여백 */
+  --space-16: 64px;  /* 대형 섹션 간 */
+
+  /* ========================================
+   * 7. Layout (레이아웃)
+   * ======================================== */
+  --layout-sidebar-width: 240px;
+  --layout-sidebar-collapsed: 64px;
+  --layout-header-height: 56px;
+  --layout-content-max-width: 1440px;
+  --layout-content-padding: 24px;
+  
+  /* 그리드 */
+  --grid-columns: 12;
+  --grid-gap: 24px;
+
+  /* ========================================
+   * 8. Shadows (그림자)
+   * ======================================== */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 
+               0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 
+               0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 
+               0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow-focus: 0 0 0 3px rgba(25, 118, 210, 0.3);
+  --shadow-inset: inset 0 2px 4px rgba(0, 0, 0, 0.06);
+
+  /* ========================================
+   * 9. Border Radius (라운딩)
+   * ======================================== */
+  --radius-none: 0;
+  --radius-sm:   4px;  /* 버튼, 입력창 */
+  --radius-md:   8px;  /* 카드 */
+  --radius-lg:   12px; /* 모달, 대형 카드 */
+  --radius-xl:   16px; /* 특수 컨테이너 */
+  --radius-full: 9999px; /* 원형 (뱃지, 아바타) */
+
+  /* ========================================
+   * 10. Transitions (트랜지션)
+   * ======================================== */
+  --duration-fast:   150ms;
+  --duration-normal: 250ms;
+  --duration-slow:   400ms;
+  
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* ========================================
+   * 11. Z-Index Scale
+   * ======================================== */
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-modal-backdrop: 300;
+  --z-modal: 400;
+  --z-toast: 500;
+  --z-tooltip: 600;
+}
+
+/* ========================================
+ * 다크 모드 토큰 (선택적)
+ * ======================================== */
+[data-theme="dark"] {
+  --color-bg-primary:   #0F172A;
+  --color-bg-secondary: #1E293B;
+  --color-bg-tertiary:  #334155;
+  
+  --color-text-primary:   #F1F5F9;
+  --color-text-secondary: #94A3B8;
+  --color-text-tertiary:  #64748B;
+  
+  --color-border-light:  #334155;
+  --color-border-medium: #475569;
+}

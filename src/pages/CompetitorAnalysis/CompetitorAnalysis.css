@@ -1,0 +1,209 @@
+.competitor-analysis-page {
+    padding: var(--space-6);
+}
+
+/* 헤더 */
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* 검색 카드 */
+.search-card {
+    padding: var(--space-6);
+}
+
+.search-row {
+    display: flex;
+    gap: var(--space-4);
+    align-items: flex-end;
+}
+
+.search-input-wrapper {
+    flex: 1;
+    max-width: 500px;
+}
+
+/* 검색 결과 */
+.search-results {
+    border-top: 1px solid var(--color-border-light);
+    padding-top: var(--space-4);
+}
+
+.result-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+}
+
+.result-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+    padding: var(--space-3) var(--space-4);
+    background: var(--color-bg-secondary);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-out);
+}
+
+.result-item:hover {
+    background: var(--color-primary-50);
+}
+
+.company-name {
+    flex: 1;
+    font-weight: var(--font-weight-medium);
+}
+
+.company-bizno,
+.company-region {
+    color: var(--color-text-secondary);
+}
+
+/* 업체 정보 카드 */
+.company-info-card {
+    padding: var(--space-6);
+}
+
+.company-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+}
+
+/* 통계 그리드 */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: var(--space-4);
+}
+
+.stat-card {
+    padding: var(--space-5);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+}
+
+.stat-label {
+    color: var(--color-text-secondary);
+}
+
+.stat-value {
+    color: var(--color-text-primary);
+}
+
+.stat-value.success {
+    color: var(--color-success);
+}
+
+/* 차트 카드 */
+.chart-card {
+    padding: var(--space-6);
+}
+
+/* 이력 카드 */
+.history-card {
+    padding: var(--space-6);
+}
+
+/* 테이블 스타일 */
+.amount-cell {
+    font-family: var(--font-family-monospace);
+    font-weight: var(--font-weight-medium);
+}
+
+.rate-cell {
+    font-family: var(--font-family-monospace);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-primary-600);
+}
+
+/* 빈 상태 */
+.empty-state {
+    padding: var(--space-10);
+}
+
+.empty-content {
+    text-align: center;
+}
+
+.empty-icon {
+    font-size: 48px;
+    display: block;
+    margin-bottom: var(--space-4);
+}
+
+/* API 경고 */
+.api-warning {
+    text-align: center;
+    padding: var(--space-6);
+}
+
+/* 반응형 */
+@media (max-width: 768px) {
+    .search-row {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .search-input-wrapper {
+        max-width: 100%;
+    }
+
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* 패턴 분석 카드 */
+.pattern-card {
+    padding: var(--space-6);
+}
+
+.pattern-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-4);
+}
+
+.progress-bar-bg {
+    width: 100%;
+    height: 8px;
+    background-color: var(--color-bg-tertiary);
+    border-radius: var(--radius-full);
+    overflow: hidden;
+    margin-top: var(--space-2);
+}
+
+.progress-bar-fill {
+    height: 100%;
+    border-radius: var(--radius-full);
+    transition: width 0.5s ease-out;
+}
+
+.stat-value-sm {
+    font-size: var(--text-caption);
+    color: var(--color-text-secondary);
+}
+
+/* Detail sections */
+.detail-card {
+    padding: var(--space-6);
+}
+
+.detail-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: var(--space-4);
+}
+
+.detail-list {
+    margin: 0;
+    padding-left: var(--space-5);
+    color: var(--color-text-secondary);
+    display: grid;
+    gap: var(--space-2);
+}

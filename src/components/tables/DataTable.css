@@ -1,0 +1,161 @@
+/**
+ * DataTable 컴포넌트 스타일
+ * 상세서.md 7.5 테이블 규격 기반
+ */
+
+.data-table-wrapper {
+    background: var(--color-bg-primary);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-md);
+    overflow: hidden;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+/* 헤더 */
+.data-table thead {
+    background: var(--color-bg-secondary);
+}
+
+.data-table th {
+    height: 48px;
+    padding: var(--space-3) var(--space-4);
+    text-align: left;
+    font-size: var(--font-size-body-sm);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-text-secondary);
+    border-bottom: 1px solid var(--color-border-light);
+    white-space: nowrap;
+}
+
+.data-table th.sortable {
+    cursor: pointer;
+    user-select: none;
+}
+
+.data-table th.sortable:hover {
+    background: var(--color-bg-tertiary);
+}
+
+.th-content {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+}
+
+.sort-icon {
+    font-size: 10px;
+    color: var(--color-text-tertiary);
+}
+
+/* 데이터 행 */
+.data-table tbody tr {
+    transition: background var(--duration-fast) var(--ease-out);
+}
+
+.data-table tbody tr:hover {
+    background: var(--color-bg-tertiary);
+}
+
+.data-table tbody tr.row-selected {
+    background: var(--color-primary-50);
+}
+
+.data-table td {
+    height: 44px;
+    padding: var(--space-3) var(--space-4);
+    font-size: var(--font-size-body-sm);
+    color: var(--color-text-primary);
+    border-bottom: 1px solid var(--color-border-light);
+}
+
+/* 체크박스 컬럼 */
+.data-table-checkbox {
+    width: 48px;
+    text-align: center !important;
+}
+
+.data-table-checkbox input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+/* 빈 상태 */
+.data-table-empty,
+.data-table-loading {
+    text-align: center;
+    padding: var(--space-10) !important;
+    color: var(--color-text-tertiary);
+}
+
+/* 로딩 스피너 */
+.loading-spinner {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border: 3px solid var(--color-border-light);
+    border-top-color: var(--color-primary-500);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* 페이지네이션 */
+.data-table-pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--space-3) var(--space-4);
+    border-top: 1px solid var(--color-border-light);
+    background: var(--color-bg-secondary);
+}
+
+.pagination-info {
+    color: var(--color-text-secondary);
+}
+
+.pagination-controls {
+    display: flex;
+    gap: var(--space-1);
+}
+
+.pagination-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 32px;
+    height: 32px;
+    padding: 0 var(--space-2);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-sm);
+    background: var(--color-bg-primary);
+    color: var(--color-text-secondary);
+    font-size: var(--font-size-body-sm);
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-out);
+}
+
+.pagination-btn:hover:not(:disabled) {
+    border-color: var(--color-primary-500);
+    color: var(--color-primary-500);
+}
+
+.pagination-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.pagination-btn.active {
+    background: var(--color-primary-500);
+    border-color: var(--color-primary-500);
+    color: var(--color-text-inverse);
+}

@@ -1,0 +1,153 @@
+/**
+ * Button 컴포넌트 스타일
+ * 상세서.md 7.2 버튼 규격 기반
+ */
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-2);
+    border-radius: var(--radius-sm);
+    font-weight: var(--font-weight-semibold);
+    transition: all var(--duration-fast) var(--ease-out);
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.btn:focus-visible {
+    outline: none;
+    box-shadow: var(--shadow-focus);
+}
+
+.btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* 사이즈 */
+.btn-small {
+    height: 32px;
+    padding: 0 12px;
+    font-size: 12px;
+}
+
+.btn-medium {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 14px;
+}
+
+.btn-large {
+    height: 48px;
+    padding: 0 24px;
+    font-size: 16px;
+}
+
+/* Primary 버튼 */
+.btn-primary {
+    background: var(--color-primary-500);
+    color: var(--color-text-inverse);
+    border: none;
+}
+
+.btn-primary:hover:not(:disabled) {
+    background: var(--color-primary-600);
+}
+
+.btn-primary:active:not(:disabled) {
+    background: var(--color-primary-700);
+}
+
+/* Secondary 버튼 */
+.btn-secondary {
+    background: transparent;
+    color: var(--color-primary-500);
+    border: 1px solid var(--color-primary-500);
+}
+
+.btn-secondary:hover:not(:disabled) {
+    background: var(--color-primary-50);
+}
+
+.btn-secondary:active:not(:disabled) {
+    background: var(--color-primary-100);
+}
+
+/* Ghost 버튼 */
+.btn-ghost {
+    background: transparent;
+    color: var(--color-text-secondary);
+    border: none;
+}
+
+.btn-ghost:hover:not(:disabled) {
+    background: var(--color-bg-secondary);
+    color: var(--color-text-primary);
+}
+
+.btn-ghost:active:not(:disabled) {
+    background: var(--color-bg-tertiary);
+}
+
+/* Danger 버튼 */
+.btn-danger {
+    background: var(--color-error);
+    color: var(--color-text-inverse);
+    border: none;
+}
+
+.btn-danger:hover:not(:disabled) {
+    background: #B71C1C;
+}
+
+.btn-danger:active:not(:disabled) {
+    background: #8B0000;
+}
+
+/* 전체 너비 */
+.btn-full {
+    width: 100%;
+}
+
+/* 아이콘 */
+.btn-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-small .btn-icon svg {
+    width: 16px;
+    height: 16px;
+}
+
+.btn-medium .btn-icon svg {
+    width: 20px;
+    height: 20px;
+}
+
+.btn-large .btn-icon svg {
+    width: 24px;
+    height: 24px;
+}
+
+/* 로딩 스피너 */
+.btn-loading {
+    pointer-events: none;
+}
+
+.btn-spinner {
+    width: 16px;
+    height: 16px;
+    border: 2px solid currentColor;
+    border-top-color: transparent;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}

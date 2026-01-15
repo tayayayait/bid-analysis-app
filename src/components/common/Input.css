@@ -1,0 +1,129 @@
+/**
+ * Input 컴포넌트 스타일
+ * 상세서.md 7.3 입력창 규격 기반
+ */
+
+.input-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+}
+
+.input-label {
+    color: var(--color-text-secondary);
+}
+
+.input-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: var(--color-bg-primary);
+    border: 1px solid var(--color-border-medium);
+    border-radius: var(--radius-sm);
+    transition: all var(--duration-fast) var(--ease-out);
+}
+
+.input-container:focus-within {
+    border-color: var(--color-primary-500);
+    border-width: 2px;
+}
+
+.input-container.input-error {
+    border-color: var(--color-error);
+}
+
+/* 사이즈 */
+.input-small {
+    height: 32px;
+}
+
+.input-medium {
+    height: 40px;
+}
+
+.input-large {
+    height: 48px;
+}
+
+/* 입력 필드 */
+.input-field {
+    flex: 1;
+    height: 100%;
+    padding: 0 12px;
+    border: none;
+    background: transparent;
+    font-size: var(--font-size-body);
+    color: var(--color-text-primary);
+}
+
+.input-field::placeholder {
+    color: var(--color-text-tertiary);
+}
+
+.input-field:focus {
+    outline: none;
+}
+
+/* 아이콘 */
+.input-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-text-tertiary);
+}
+
+.input-icon-left {
+    padding-left: 12px;
+}
+
+.input-icon-right {
+    padding-right: 12px;
+}
+
+.input-icon svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* 아이콘이 있을 때 입력 필드 패딩 조정 */
+.input-container:has(.input-icon-left) .input-field {
+    padding-left: 8px;
+}
+
+.input-container:has(.input-icon-right) .input-field,
+.input-container:has(.input-clear) .input-field {
+    padding-right: 8px;
+}
+
+/* 클리어 버튼 */
+.input-clear {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    padding: 0;
+    border: none;
+    background: var(--color-bg-tertiary);
+    border-radius: var(--radius-full);
+    color: var(--color-text-secondary);
+    font-size: 10px;
+    cursor: pointer;
+    transition: all var(--duration-fast) var(--ease-out);
+}
+
+.input-clear:hover {
+    background: var(--color-border-medium);
+    color: var(--color-text-primary);
+}
+
+/* 도움말/에러 텍스트 */
+.input-helper {
+    font-size: var(--font-size-caption);
+    color: var(--color-text-secondary);
+}
+
+.input-helper-error {
+    color: var(--color-error);
+}

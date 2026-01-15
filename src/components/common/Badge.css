@@ -1,0 +1,51 @@
+/**
+ * Badge 컴포넌트 스타일
+ * 상세서.md 7.6 뱃지 규격 기반
+ */
+
+.badge {
+    display: inline-flex;
+    align-items: center;
+    height: 24px;
+    padding: 0 8px;
+    font-size: 12px;
+    font-weight: var(--font-weight-medium);
+    border-radius: var(--radius-full);
+    white-space: nowrap;
+}
+
+/* 진행중 */
+.badge-progress {
+    background-color: #E3F2FD;
+    color: #1565C0;
+}
+
+/* 낙찰완료/성공 */
+.badge-success {
+    background-color: #E8F5E9;
+    color: #2E7D32;
+}
+
+/* 유찰/에러 */
+.badge-error {
+    background-color: #FFEBEE;
+    color: #C62828;
+}
+
+/* 재입찰/경고 */
+.badge-warning {
+    background-color: #FFF3E0;
+    color: #E65100;
+}
+
+/* 취소/중립 */
+.badge-neutral {
+    background-color: #F5F5F5;
+    color: #757575;
+}
+
+/* 정보 */
+.badge-info {
+    background-color: #E1F5FE;
+    color: #0277BD;
+}

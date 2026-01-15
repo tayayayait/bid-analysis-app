@@ -1,0 +1,31 @@
+/**
+ * 차트 컴포넌트 공통 스타일
+ */
+
+.chart-container {
+    width: 100%;
+}
+
+.chart-title {
+    margin-bottom: var(--space-4);
+    color: var(--color-text-primary);
+}
+
+/* Recharts 커스텀 스타일 */
+.recharts-cartesian-grid-horizontal line,
+.recharts-cartesian-grid-vertical line {
+    stroke: var(--color-border-light);
+}
+
+.recharts-tooltip-wrapper {
+    outline: none;
+}
+
+.recharts-legend-wrapper {
+    padding-top: var(--space-2) !important;
+}
+
+.recharts-legend-item-text {
+    color: var(--color-text-secondary) !important;
+    font-size: var(--font-size-caption) !important;
+}

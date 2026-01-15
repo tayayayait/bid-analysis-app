@@ -1,0 +1,1802 @@
+[
+  {
+    "bidNtceNo": "20240997805-00",
+    "bidNtceNm": "가상의 공사 공고 1호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_36",
+    "bidNtceDt": "2025-07-28 17:06:27",
+    "presmptPrce": 207363063,
+    "bsisAmount": 203215801.74
+  },
+  {
+    "bidNtceNo": "20240881145-00",
+    "bidNtceNm": "가상의 공사 공고 2호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_48",
+    "bidNtceDt": "2025-06-15 17:06:27",
+    "presmptPrce": 176805140,
+    "bsisAmount": 173269037.2
+  },
+  {
+    "bidNtceNo": "20240154023-00",
+    "bidNtceNm": "가상의 공사 공고 3호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_3",
+    "bidNtceDt": "2025-08-16 17:06:27",
+    "presmptPrce": 312773598,
+    "bsisAmount": 306518126.04
+  },
+  {
+    "bidNtceNo": "20241189739-00",
+    "bidNtceNm": "가상의 공사 공고 4호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_19",
+    "bidNtceDt": "2025-06-27 17:06:27",
+    "presmptPrce": 149888845,
+    "bsisAmount": 146891068.1
+  },
+  {
+    "bidNtceNo": "20240594595-00",
+    "bidNtceNm": "가상의 공사 공고 5호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_36",
+    "bidNtceDt": "2025-11-23 17:06:27",
+    "presmptPrce": 412131281,
+    "bsisAmount": 403888655.38
+  },
+  {
+    "bidNtceNo": "20240484987-00",
+    "bidNtceNm": "가상의 공사 공고 6호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_12",
+    "bidNtceDt": "2025-01-30 17:06:27",
+    "presmptPrce": 169268653,
+    "bsisAmount": 165883279.94
+  },
+  {
+    "bidNtceNo": "20240434970-00",
+    "bidNtceNm": "가상의 공사 공고 7호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_3",
+    "bidNtceDt": "2025-12-24 17:06:27",
+    "presmptPrce": 464946850,
+    "bsisAmount": 455647913
+  },
+  {
+    "bidNtceNo": "20240994000-00",
+    "bidNtceNm": "가상의 공사 공고 8호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_37",
+    "bidNtceDt": "2025-08-01 17:06:27",
+    "presmptPrce": 385146463,
+    "bsisAmount": 377443533.74
+  },
+  {
+    "bidNtceNo": "20240295100-00",
+    "bidNtceNm": "가상의 공사 공고 9호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_16",
+    "bidNtceDt": "2025-06-20 17:06:27",
+    "presmptPrce": 167002232,
+    "bsisAmount": 163662187.35999998
+  },
+  {
+    "bidNtceNo": "20240223177-00",
+    "bidNtceNm": "가상의 공사 공고 10호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_5",
+    "bidNtceDt": "2025-12-17 17:06:27",
+    "presmptPrce": 232591934,
+    "bsisAmount": 227940095.32
+  },
+  {
+    "bidNtceNo": "20241249885-00",
+    "bidNtceNm": "가상의 공사 공고 11호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-07-21 17:06:27",
+    "presmptPrce": 196336595,
+    "bsisAmount": 192409863.1
+  },
+  {
+    "bidNtceNo": "20241267590-00",
+    "bidNtceNm": "가상의 공사 공고 12호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_3",
+    "bidNtceDt": "2025-02-11 17:06:27",
+    "presmptPrce": 322157462,
+    "bsisAmount": 315714312.76
+  },
+  {
+    "bidNtceNo": "20240326517-00",
+    "bidNtceNm": "가상의 공사 공고 13호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_3",
+    "bidNtceDt": "2025-05-03 17:06:27",
+    "presmptPrce": 84811373,
+    "bsisAmount": 83115145.53999999
+  },
+  {
+    "bidNtceNo": "20240835344-00",
+    "bidNtceNm": "가상의 공사 공고 14호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_8",
+    "bidNtceDt": "2025-07-15 17:06:27",
+    "presmptPrce": 264617469,
+    "bsisAmount": 259325119.62
+  },
+  {
+    "bidNtceNo": "20240754085-00",
+    "bidNtceNm": "가상의 공사 공고 15호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-12-02 17:06:27",
+    "presmptPrce": 207108281,
+    "bsisAmount": 202966115.38
+  },
+  {
+    "bidNtceNo": "20240574813-00",
+    "bidNtceNm": "가상의 공사 공고 16호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_47",
+    "bidNtceDt": "2025-03-26 17:06:27",
+    "presmptPrce": 294160865,
+    "bsisAmount": 288277647.7
+  },
+  {
+    "bidNtceNo": "20241297650-00",
+    "bidNtceNm": "가상의 공사 공고 17호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_5",
+    "bidNtceDt": "2025-06-13 17:06:27",
+    "presmptPrce": 371581664,
+    "bsisAmount": 364150030.71999997
+  },
+  {
+    "bidNtceNo": "20241036225-00",
+    "bidNtceNm": "가상의 공사 공고 18호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_33",
+    "bidNtceDt": "2025-03-25 17:06:27",
+    "presmptPrce": 371600305,
+    "bsisAmount": 364168298.9
+  },
+  {
+    "bidNtceNo": "20240234102-00",
+    "bidNtceNm": "가상의 공사 공고 19호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_5",
+    "bidNtceDt": "2025-07-03 17:06:27",
+    "presmptPrce": 472209183,
+    "bsisAmount": 462764999.34
+  },
+  {
+    "bidNtceNo": "20241185131-00",
+    "bidNtceNm": "가상의 공사 공고 20호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_13",
+    "bidNtceDt": "2025-10-31 17:06:27",
+    "presmptPrce": 160844382,
+    "bsisAmount": 157627494.35999998
+  },
+  {
+    "bidNtceNo": "20240174441-00",
+    "bidNtceNm": "가상의 공사 공고 21호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_25",
+    "bidNtceDt": "2025-08-27 17:06:27",
+    "presmptPrce": 61230447,
+    "bsisAmount": 60005838.06
+  },
+  {
+    "bidNtceNo": "20240368176-00",
+    "bidNtceNm": "가상의 공사 공고 22호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_25",
+    "bidNtceDt": "2025-09-29 17:06:27",
+    "presmptPrce": 464536503,
+    "bsisAmount": 455245772.94
+  },
+  {
+    "bidNtceNo": "20240864046-00",
+    "bidNtceNm": "가상의 공사 공고 23호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_16",
+    "bidNtceDt": "2025-04-01 17:06:27",
+    "presmptPrce": 246362396,
+    "bsisAmount": 241435148.07999998
+  },
+  {
+    "bidNtceNo": "20241215488-00",
+    "bidNtceNm": "가상의 공사 공고 24호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_2",
+    "bidNtceDt": "2025-01-18 17:06:27",
+    "presmptPrce": 440395422,
+    "bsisAmount": 431587513.56
+  },
+  {
+    "bidNtceNo": "20240289516-00",
+    "bidNtceNm": "가상의 공사 공고 25호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_29",
+    "bidNtceDt": "2025-05-11 17:06:27",
+    "presmptPrce": 452646145,
+    "bsisAmount": 443593222.09999996
+  },
+  {
+    "bidNtceNo": "20240138887-00",
+    "bidNtceNm": "가상의 공사 공고 26호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_12",
+    "bidNtceDt": "2025-12-22 17:06:27",
+    "presmptPrce": 164629858,
+    "bsisAmount": 161337260.84
+  },
+  {
+    "bidNtceNo": "20240144994-00",
+    "bidNtceNm": "가상의 공사 공고 27호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_10",
+    "bidNtceDt": "2025-03-21 17:06:27",
+    "presmptPrce": 423741348,
+    "bsisAmount": 415266521.04
+  },
+  {
+    "bidNtceNo": "20241087508-00",
+    "bidNtceNm": "가상의 공사 공고 28호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_23",
+    "bidNtceDt": "2025-04-14 17:06:27",
+    "presmptPrce": 376163253,
+    "bsisAmount": 368639987.94
+  },
+  {
+    "bidNtceNo": "20240516108-00",
+    "bidNtceNm": "가상의 공사 공고 29호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_12",
+    "bidNtceDt": "2025-01-16 17:06:27",
+    "presmptPrce": 131843765,
+    "bsisAmount": 129206889.7
+  },
+  {
+    "bidNtceNo": "20240925638-00",
+    "bidNtceNm": "가상의 공사 공고 30호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_33",
+    "bidNtceDt": "2026-01-07 17:06:27",
+    "presmptPrce": 449891050,
+    "bsisAmount": 440893229
+  },
+  {
+    "bidNtceNo": "20240485232-00",
+    "bidNtceNm": "가상의 공사 공고 31호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_15",
+    "bidNtceDt": "2025-05-03 17:06:27",
+    "presmptPrce": 493528226,
+    "bsisAmount": 483657661.48
+  },
+  {
+    "bidNtceNo": "20240314650-00",
+    "bidNtceNm": "가상의 공사 공고 32호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_36",
+    "bidNtceDt": "2025-04-09 17:06:27",
+    "presmptPrce": 64699802,
+    "bsisAmount": 63405805.96
+  },
+  {
+    "bidNtceNo": "20241071297-00",
+    "bidNtceNm": "가상의 공사 공고 33호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_27",
+    "bidNtceDt": "2025-04-26 17:06:27",
+    "presmptPrce": 480733883,
+    "bsisAmount": 471119205.34
+  },
+  {
+    "bidNtceNo": "20240728429-00",
+    "bidNtceNm": "가상의 공사 공고 34호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_31",
+    "bidNtceDt": "2025-05-22 17:06:27",
+    "presmptPrce": 258474416,
+    "bsisAmount": 253304927.68
+  },
+  {
+    "bidNtceNo": "20241258335-00",
+    "bidNtceNm": "가상의 공사 공고 35호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_42",
+    "bidNtceDt": "2025-05-11 17:06:27",
+    "presmptPrce": 250777887,
+    "bsisAmount": 245762329.26
+  },
+  {
+    "bidNtceNo": "20240878253-00",
+    "bidNtceNm": "가상의 공사 공고 36호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_34",
+    "bidNtceDt": "2025-11-14 17:06:27",
+    "presmptPrce": 462906581,
+    "bsisAmount": 453648449.38
+  },
+  {
+    "bidNtceNo": "20240190622-00",
+    "bidNtceNm": "가상의 공사 공고 37호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_35",
+    "bidNtceDt": "2025-08-11 17:06:27",
+    "presmptPrce": 483219570,
+    "bsisAmount": 473555178.59999996
+  },
+  {
+    "bidNtceNo": "20240980175-00",
+    "bidNtceNm": "가상의 공사 공고 38호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_27",
+    "bidNtceDt": "2025-11-15 17:06:27",
+    "presmptPrce": 207222144,
+    "bsisAmount": 203077701.12
+  },
+  {
+    "bidNtceNo": "20241057135-00",
+    "bidNtceNm": "가상의 공사 공고 39호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_28",
+    "bidNtceDt": "2025-05-03 17:06:27",
+    "presmptPrce": 487945142,
+    "bsisAmount": 478186239.15999997
+  },
+  {
+    "bidNtceNo": "20240110726-00",
+    "bidNtceNm": "가상의 공사 공고 40호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_5",
+    "bidNtceDt": "2025-02-27 17:06:27",
+    "presmptPrce": 160063439,
+    "bsisAmount": 156862170.22
+  },
+  {
+    "bidNtceNo": "20240663105-00",
+    "bidNtceNm": "가상의 공사 공고 41호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_12",
+    "bidNtceDt": "2025-12-07 17:06:27",
+    "presmptPrce": 397031775,
+    "bsisAmount": 389091139.5
+  },
+  {
+    "bidNtceNo": "20240913440-00",
+    "bidNtceNm": "가상의 공사 공고 42호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_47",
+    "bidNtceDt": "2025-09-22 17:06:27",
+    "presmptPrce": 236403966,
+    "bsisAmount": 231675886.68
+  },
+  {
+    "bidNtceNo": "20240196929-00",
+    "bidNtceNm": "가상의 공사 공고 43호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_5",
+    "bidNtceDt": "2025-07-10 17:06:27",
+    "presmptPrce": 393085711,
+    "bsisAmount": 385223996.78
+  },
+  {
+    "bidNtceNo": "20240893624-00",
+    "bidNtceNm": "가상의 공사 공고 44호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_7",
+    "bidNtceDt": "2025-10-30 17:06:27",
+    "presmptPrce": 78561843,
+    "bsisAmount": 76990606.14
+  },
+  {
+    "bidNtceNo": "20240582740-00",
+    "bidNtceNm": "가상의 공사 공고 45호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_17",
+    "bidNtceDt": "2025-08-01 17:06:27",
+    "presmptPrce": 220149780,
+    "bsisAmount": 215746784.4
+  },
+  {
+    "bidNtceNo": "20241256462-00",
+    "bidNtceNm": "가상의 공사 공고 46호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-01-22 17:06:27",
+    "presmptPrce": 338503062,
+    "bsisAmount": 331733000.76
+  },
+  {
+    "bidNtceNo": "20240596123-00",
+    "bidNtceNm": "가상의 공사 공고 47호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_31",
+    "bidNtceDt": "2025-05-15 17:06:27",
+    "presmptPrce": 187709219,
+    "bsisAmount": 183955034.62
+  },
+  {
+    "bidNtceNo": "20240899354-00",
+    "bidNtceNm": "가상의 공사 공고 48호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_14",
+    "bidNtceDt": "2025-07-20 17:06:27",
+    "presmptPrce": 323429589,
+    "bsisAmount": 316960997.21999997
+  },
+  {
+    "bidNtceNo": "20241042998-00",
+    "bidNtceNm": "가상의 공사 공고 49호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-04-06 17:06:27",
+    "presmptPrce": 268105486,
+    "bsisAmount": 262743376.28
+  },
+  {
+    "bidNtceNo": "20240615567-00",
+    "bidNtceNm": "가상의 공사 공고 50호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_19",
+    "bidNtceDt": "2025-08-04 17:06:27",
+    "presmptPrce": 460031791,
+    "bsisAmount": 450831155.18
+  },
+  {
+    "bidNtceNo": "20240833947-00",
+    "bidNtceNm": "가상의 공사 공고 51호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_43",
+    "bidNtceDt": "2025-10-20 17:06:27",
+    "presmptPrce": 302550006,
+    "bsisAmount": 296499005.88
+  },
+  {
+    "bidNtceNo": "20240955264-00",
+    "bidNtceNm": "가상의 공사 공고 52호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_28",
+    "bidNtceDt": "2025-01-28 17:06:27",
+    "presmptPrce": 126391088,
+    "bsisAmount": 123863266.24
+  },
+  {
+    "bidNtceNo": "20240986174-00",
+    "bidNtceNm": "가상의 공사 공고 53호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-06-13 17:06:27",
+    "presmptPrce": 246770341,
+    "bsisAmount": 241834934.18
+  },
+  {
+    "bidNtceNo": "20241128999-00",
+    "bidNtceNm": "가상의 공사 공고 54호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_19",
+    "bidNtceDt": "2025-02-09 17:06:27",
+    "presmptPrce": 408607916,
+    "bsisAmount": 400435757.68
+  },
+  {
+    "bidNtceNo": "20241292881-00",
+    "bidNtceNm": "가상의 공사 공고 55호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_33",
+    "bidNtceDt": "2025-05-31 17:06:27",
+    "presmptPrce": 422419939,
+    "bsisAmount": 413971540.21999997
+  },
+  {
+    "bidNtceNo": "20240223983-00",
+    "bidNtceNm": "가상의 공사 공고 56호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_21",
+    "bidNtceDt": "2025-10-05 17:06:27",
+    "presmptPrce": 426659975,
+    "bsisAmount": 418126775.5
+  },
+  {
+    "bidNtceNo": "20240341264-00",
+    "bidNtceNm": "가상의 공사 공고 57호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_50",
+    "bidNtceDt": "2025-06-19 17:06:27",
+    "presmptPrce": 325899634,
+    "bsisAmount": 319381641.32
+  },
+  {
+    "bidNtceNo": "20240855140-00",
+    "bidNtceNm": "가상의 공사 공고 58호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_42",
+    "bidNtceDt": "2025-04-04 17:06:27",
+    "presmptPrce": 244685590,
+    "bsisAmount": 239791878.2
+  },
+  {
+    "bidNtceNo": "20240817425-00",
+    "bidNtceNm": "가상의 공사 공고 59호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_42",
+    "bidNtceDt": "2025-08-22 17:06:27",
+    "presmptPrce": 58569803,
+    "bsisAmount": 57398406.94
+  },
+  {
+    "bidNtceNo": "20241021595-00",
+    "bidNtceNm": "가상의 공사 공고 60호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-03-30 17:06:27",
+    "presmptPrce": 299173645,
+    "bsisAmount": 293190172.1
+  },
+  {
+    "bidNtceNo": "20240974347-00",
+    "bidNtceNm": "가상의 공사 공고 61호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_16",
+    "bidNtceDt": "2025-10-09 17:06:27",
+    "presmptPrce": 265903903,
+    "bsisAmount": 260585824.94
+  },
+  {
+    "bidNtceNo": "20240890996-00",
+    "bidNtceNm": "가상의 공사 공고 62호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_21",
+    "bidNtceDt": "2025-12-05 17:06:27",
+    "presmptPrce": 207576728,
+    "bsisAmount": 203425193.44
+  },
+  {
+    "bidNtceNo": "20241067347-00",
+    "bidNtceNm": "가상의 공사 공고 63호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-05-23 17:06:27",
+    "presmptPrce": 448388211,
+    "bsisAmount": 439420446.78
+  },
+  {
+    "bidNtceNo": "20241154490-00",
+    "bidNtceNm": "가상의 공사 공고 64호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_18",
+    "bidNtceDt": "2025-09-19 17:06:27",
+    "presmptPrce": 229663682,
+    "bsisAmount": 225070408.35999998
+  },
+  {
+    "bidNtceNo": "20240358662-00",
+    "bidNtceNm": "가상의 공사 공고 65호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_2",
+    "bidNtceDt": "2025-02-17 17:06:27",
+    "presmptPrce": 194245980,
+    "bsisAmount": 190361060.4
+  },
+  {
+    "bidNtceNo": "20240886034-00",
+    "bidNtceNm": "가상의 공사 공고 66호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_35",
+    "bidNtceDt": "2025-11-17 17:06:27",
+    "presmptPrce": 296073192,
+    "bsisAmount": 290151728.15999997
+  },
+  {
+    "bidNtceNo": "20240820806-00",
+    "bidNtceNm": "가상의 공사 공고 67호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_23",
+    "bidNtceDt": "2025-05-31 17:06:27",
+    "presmptPrce": 324492556,
+    "bsisAmount": 318002704.88
+  },
+  {
+    "bidNtceNo": "20240618248-00",
+    "bidNtceNm": "가상의 공사 공고 68호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-04-04 17:06:27",
+    "presmptPrce": 144547188,
+    "bsisAmount": 141656244.24
+  },
+  {
+    "bidNtceNo": "20241167194-00",
+    "bidNtceNm": "가상의 공사 공고 69호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_7",
+    "bidNtceDt": "2025-01-29 17:06:27",
+    "presmptPrce": 155228010,
+    "bsisAmount": 152123449.8
+  },
+  {
+    "bidNtceNo": "20241224058-00",
+    "bidNtceNm": "가상의 공사 공고 70호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-04-01 17:06:27",
+    "presmptPrce": 398984420,
+    "bsisAmount": 391004731.59999996
+  },
+  {
+    "bidNtceNo": "20240479213-00",
+    "bidNtceNm": "가상의 공사 공고 71호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_35",
+    "bidNtceDt": "2025-11-20 17:06:27",
+    "presmptPrce": 463769868,
+    "bsisAmount": 454494470.64
+  },
+  {
+    "bidNtceNo": "20241178500-00",
+    "bidNtceNm": "가상의 공사 공고 72호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_27",
+    "bidNtceDt": "2025-12-11 17:06:27",
+    "presmptPrce": 439622401,
+    "bsisAmount": 430829952.98
+  },
+  {
+    "bidNtceNo": "20240778560-00",
+    "bidNtceNm": "가상의 공사 공고 73호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_28",
+    "bidNtceDt": "2025-06-24 17:06:27",
+    "presmptPrce": 372868386,
+    "bsisAmount": 365411018.28
+  },
+  {
+    "bidNtceNo": "20240986284-00",
+    "bidNtceNm": "가상의 공사 공고 74호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_31",
+    "bidNtceDt": "2025-08-03 17:06:27",
+    "presmptPrce": 102786006,
+    "bsisAmount": 100730285.88
+  },
+  {
+    "bidNtceNo": "20240685396-00",
+    "bidNtceNm": "가상의 공사 공고 75호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_50",
+    "bidNtceDt": "2025-12-11 17:06:27",
+    "presmptPrce": 178200412,
+    "bsisAmount": 174636403.76
+  },
+  {
+    "bidNtceNo": "20240558654-00",
+    "bidNtceNm": "가상의 공사 공고 76호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_46",
+    "bidNtceDt": "2025-11-02 17:06:27",
+    "presmptPrce": 169173208,
+    "bsisAmount": 165789743.84
+  },
+  {
+    "bidNtceNo": "20240121534-00",
+    "bidNtceNm": "가상의 공사 공고 77호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-01-28 17:06:27",
+    "presmptPrce": 169164349,
+    "bsisAmount": 165781062.02
+  },
+  {
+    "bidNtceNo": "20240118823-00",
+    "bidNtceNm": "가상의 공사 공고 78호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_22",
+    "bidNtceDt": "2025-04-14 17:06:27",
+    "presmptPrce": 203037098,
+    "bsisAmount": 198976356.04
+  },
+  {
+    "bidNtceNo": "20241241135-00",
+    "bidNtceNm": "가상의 공사 공고 79호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_11",
+    "bidNtceDt": "2025-05-30 17:06:27",
+    "presmptPrce": 337156227,
+    "bsisAmount": 330413102.46
+  },
+  {
+    "bidNtceNo": "20240295349-00",
+    "bidNtceNm": "가상의 공사 공고 80호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-04-26 17:06:27",
+    "presmptPrce": 342897080,
+    "bsisAmount": 336039138.4
+  },
+  {
+    "bidNtceNo": "20240541636-00",
+    "bidNtceNm": "가상의 공사 공고 81호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_12",
+    "bidNtceDt": "2025-06-24 17:06:27",
+    "presmptPrce": 58948977,
+    "bsisAmount": 57769997.46
+  },
+  {
+    "bidNtceNo": "20240856483-00",
+    "bidNtceNm": "가상의 공사 공고 82호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_41",
+    "bidNtceDt": "2025-09-09 17:06:27",
+    "presmptPrce": 121232124,
+    "bsisAmount": 118807481.52
+  },
+  {
+    "bidNtceNo": "20240551442-00",
+    "bidNtceNm": "가상의 공사 공고 83호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_19",
+    "bidNtceDt": "2025-07-22 17:06:27",
+    "presmptPrce": 333954447,
+    "bsisAmount": 327275358.06
+  },
+  {
+    "bidNtceNo": "20240299615-00",
+    "bidNtceNm": "가상의 공사 공고 84호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_13",
+    "bidNtceDt": "2025-04-11 17:06:27",
+    "presmptPrce": 232458273,
+    "bsisAmount": 227809107.54
+  },
+  {
+    "bidNtceNo": "20241133728-00",
+    "bidNtceNm": "가상의 공사 공고 85호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_38",
+    "bidNtceDt": "2025-08-24 17:06:27",
+    "presmptPrce": 472895813,
+    "bsisAmount": 463437896.74
+  },
+  {
+    "bidNtceNo": "20241035610-00",
+    "bidNtceNm": "가상의 공사 공고 86호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_8",
+    "bidNtceDt": "2025-09-09 17:06:27",
+    "presmptPrce": 405156248,
+    "bsisAmount": 397053123.04
+  },
+  {
+    "bidNtceNo": "20241014125-00",
+    "bidNtceNm": "가상의 공사 공고 87호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_40",
+    "bidNtceDt": "2025-11-28 17:06:27",
+    "presmptPrce": 120553302,
+    "bsisAmount": 118142235.96
+  },
+  {
+    "bidNtceNo": "20240932057-00",
+    "bidNtceNm": "가상의 공사 공고 88호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_11",
+    "bidNtceDt": "2025-04-20 17:06:27",
+    "presmptPrce": 228299574,
+    "bsisAmount": 223733582.52
+  },
+  {
+    "bidNtceNo": "20240960012-00",
+    "bidNtceNm": "가상의 공사 공고 89호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_49",
+    "bidNtceDt": "2025-02-19 17:06:27",
+    "presmptPrce": 278821324,
+    "bsisAmount": 273244897.52
+  },
+  {
+    "bidNtceNo": "20240954480-00",
+    "bidNtceNm": "가상의 공사 공고 90호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-10-20 17:06:27",
+    "presmptPrce": 240865635,
+    "bsisAmount": 236048322.29999998
+  },
+  {
+    "bidNtceNo": "20241123397-00",
+    "bidNtceNm": "가상의 공사 공고 91호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_15",
+    "bidNtceDt": "2025-07-27 17:06:27",
+    "presmptPrce": 149042605,
+    "bsisAmount": 146061752.9
+  },
+  {
+    "bidNtceNo": "20240759072-00",
+    "bidNtceNm": "가상의 공사 공고 92호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_34",
+    "bidNtceDt": "2025-04-12 17:06:27",
+    "presmptPrce": 360767853,
+    "bsisAmount": 353552495.94
+  },
+  {
+    "bidNtceNo": "20241270839-00",
+    "bidNtceNm": "가상의 공사 공고 93호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_46",
+    "bidNtceDt": "2025-01-25 17:06:27",
+    "presmptPrce": 232126831,
+    "bsisAmount": 227484294.38
+  },
+  {
+    "bidNtceNo": "20241267708-00",
+    "bidNtceNm": "가상의 공사 공고 94호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_5",
+    "bidNtceDt": "2025-05-24 17:06:27",
+    "presmptPrce": 387868888,
+    "bsisAmount": 380111510.24
+  },
+  {
+    "bidNtceNo": "20240237830-00",
+    "bidNtceNm": "가상의 공사 공고 95호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_10",
+    "bidNtceDt": "2025-11-06 17:06:27",
+    "presmptPrce": 224250471,
+    "bsisAmount": 219765461.57999998
+  },
+  {
+    "bidNtceNo": "20240239553-00",
+    "bidNtceNm": "가상의 공사 공고 96호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_32",
+    "bidNtceDt": "2025-05-25 17:06:27",
+    "presmptPrce": 469946419,
+    "bsisAmount": 460547490.62
+  },
+  {
+    "bidNtceNo": "20241189287-00",
+    "bidNtceNm": "가상의 공사 공고 97호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_50",
+    "bidNtceDt": "2025-05-20 17:06:27",
+    "presmptPrce": 219813840,
+    "bsisAmount": 215417563.2
+  },
+  {
+    "bidNtceNo": "20241091092-00",
+    "bidNtceNm": "가상의 공사 공고 98호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_18",
+    "bidNtceDt": "2025-03-11 17:06:27",
+    "presmptPrce": 372447638,
+    "bsisAmount": 364998685.24
+  },
+  {
+    "bidNtceNo": "20240140319-00",
+    "bidNtceNm": "가상의 공사 공고 99호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_41",
+    "bidNtceDt": "2025-11-20 17:06:27",
+    "presmptPrce": 487607693,
+    "bsisAmount": 477855539.14
+  },
+  {
+    "bidNtceNo": "20241214756-00",
+    "bidNtceNm": "가상의 공사 공고 100호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_40",
+    "bidNtceDt": "2025-12-04 17:06:27",
+    "presmptPrce": 95029567,
+    "bsisAmount": 93128975.66
+  },
+  {
+    "bidNtceNo": "20240735943-00",
+    "bidNtceNm": "가상의 공사 공고 101호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_9",
+    "bidNtceDt": "2025-01-19 17:06:27",
+    "presmptPrce": 145003839,
+    "bsisAmount": 142103762.22
+  },
+  {
+    "bidNtceNo": "20240855716-00",
+    "bidNtceNm": "가상의 공사 공고 102호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_7",
+    "bidNtceDt": "2025-06-20 17:06:27",
+    "presmptPrce": 256246712,
+    "bsisAmount": 251121777.76
+  },
+  {
+    "bidNtceNo": "20240844439-00",
+    "bidNtceNm": "가상의 공사 공고 103호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_50",
+    "bidNtceDt": "2025-04-21 17:06:27",
+    "presmptPrce": 145955195,
+    "bsisAmount": 143036091.1
+  },
+  {
+    "bidNtceNo": "20240848432-00",
+    "bidNtceNm": "가상의 공사 공고 104호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_28",
+    "bidNtceDt": "2025-05-18 17:06:27",
+    "presmptPrce": 395458385,
+    "bsisAmount": 387549217.3
+  },
+  {
+    "bidNtceNo": "20241151614-00",
+    "bidNtceNm": "가상의 공사 공고 105호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-07-22 17:06:27",
+    "presmptPrce": 185544943,
+    "bsisAmount": 181834044.14
+  },
+  {
+    "bidNtceNo": "20240621225-00",
+    "bidNtceNm": "가상의 공사 공고 106호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_2",
+    "bidNtceDt": "2025-09-29 17:06:27",
+    "presmptPrce": 430372845,
+    "bsisAmount": 421765388.09999996
+  },
+  {
+    "bidNtceNo": "20240536158-00",
+    "bidNtceNm": "가상의 공사 공고 107호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_36",
+    "bidNtceDt": "2025-06-13 17:06:27",
+    "presmptPrce": 303410854,
+    "bsisAmount": 297342636.92
+  },
+  {
+    "bidNtceNo": "20240421341-00",
+    "bidNtceNm": "가상의 공사 공고 108호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_8",
+    "bidNtceDt": "2025-03-05 17:06:27",
+    "presmptPrce": 423100030,
+    "bsisAmount": 414638029.4
+  },
+  {
+    "bidNtceNo": "20240622002-00",
+    "bidNtceNm": "가상의 공사 공고 109호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_4",
+    "bidNtceDt": "2025-09-05 17:06:27",
+    "presmptPrce": 387469634,
+    "bsisAmount": 379720241.32
+  },
+  {
+    "bidNtceNo": "20240989827-00",
+    "bidNtceNm": "가상의 공사 공고 110호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_49",
+    "bidNtceDt": "2025-04-08 17:06:27",
+    "presmptPrce": 206750713,
+    "bsisAmount": 202615698.74
+  },
+  {
+    "bidNtceNo": "20240861306-00",
+    "bidNtceNm": "가상의 공사 공고 111호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-11-12 17:06:27",
+    "presmptPrce": 333374287,
+    "bsisAmount": 326706801.26
+  },
+  {
+    "bidNtceNo": "20240261268-00",
+    "bidNtceNm": "가상의 공사 공고 112호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_18",
+    "bidNtceDt": "2026-01-01 17:06:27",
+    "presmptPrce": 208730066,
+    "bsisAmount": 204555464.68
+  },
+  {
+    "bidNtceNo": "20240855187-00",
+    "bidNtceNm": "가상의 공사 공고 113호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_25",
+    "bidNtceDt": "2025-06-20 17:06:27",
+    "presmptPrce": 373567137,
+    "bsisAmount": 366095794.26
+  },
+  {
+    "bidNtceNo": "20241126168-00",
+    "bidNtceNm": "가상의 공사 공고 114호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_43",
+    "bidNtceDt": "2025-10-09 17:06:27",
+    "presmptPrce": 415041408,
+    "bsisAmount": 406740579.84
+  },
+  {
+    "bidNtceNo": "20241090127-00",
+    "bidNtceNm": "가상의 공사 공고 115호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_19",
+    "bidNtceDt": "2025-10-17 17:06:27",
+    "presmptPrce": 228093654,
+    "bsisAmount": 223531780.92
+  },
+  {
+    "bidNtceNo": "20240978841-00",
+    "bidNtceNm": "가상의 공사 공고 116호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_10",
+    "bidNtceDt": "2025-08-31 17:06:27",
+    "presmptPrce": 413216358,
+    "bsisAmount": 404952030.84
+  },
+  {
+    "bidNtceNo": "20240143276-00",
+    "bidNtceNm": "가상의 공사 공고 117호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_16",
+    "bidNtceDt": "2025-04-06 17:06:27",
+    "presmptPrce": 276502028,
+    "bsisAmount": 270971987.44
+  },
+  {
+    "bidNtceNo": "20240525345-00",
+    "bidNtceNm": "가상의 공사 공고 118호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_32",
+    "bidNtceDt": "2025-08-02 17:06:27",
+    "presmptPrce": 447711817,
+    "bsisAmount": 438757580.65999997
+  },
+  {
+    "bidNtceNo": "20241252374-00",
+    "bidNtceNm": "가상의 공사 공고 119호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_25",
+    "bidNtceDt": "2025-01-14 17:06:27",
+    "presmptPrce": 97188508,
+    "bsisAmount": 95244737.84
+  },
+  {
+    "bidNtceNo": "20240239640-00",
+    "bidNtceNm": "가상의 공사 공고 120호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-08-27 17:06:27",
+    "presmptPrce": 463849061,
+    "bsisAmount": 454572079.78
+  },
+  {
+    "bidNtceNo": "20240718295-00",
+    "bidNtceNm": "가상의 공사 공고 121호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_2",
+    "bidNtceDt": "2025-12-31 17:06:27",
+    "presmptPrce": 288265567,
+    "bsisAmount": 282500255.65999997
+  },
+  {
+    "bidNtceNo": "20240629061-00",
+    "bidNtceNm": "가상의 공사 공고 122호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_39",
+    "bidNtceDt": "2025-08-14 17:06:27",
+    "presmptPrce": 143463420,
+    "bsisAmount": 140594151.6
+  },
+  {
+    "bidNtceNo": "20240396183-00",
+    "bidNtceNm": "가상의 공사 공고 123호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_20",
+    "bidNtceDt": "2025-08-25 17:06:27",
+    "presmptPrce": 304451049,
+    "bsisAmount": 298362028.02
+  },
+  {
+    "bidNtceNo": "20240793742-00",
+    "bidNtceNm": "가상의 공사 공고 124호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_3",
+    "bidNtceDt": "2025-05-17 17:06:27",
+    "presmptPrce": 315017806,
+    "bsisAmount": 308717449.88
+  },
+  {
+    "bidNtceNo": "20241170783-00",
+    "bidNtceNm": "가상의 공사 공고 125호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-09-29 17:06:27",
+    "presmptPrce": 453821568,
+    "bsisAmount": 444745136.64
+  },
+  {
+    "bidNtceNo": "20240759385-00",
+    "bidNtceNm": "가상의 공사 공고 126호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_40",
+    "bidNtceDt": "2025-08-20 17:06:27",
+    "presmptPrce": 359835573,
+    "bsisAmount": 352638861.54
+  },
+  {
+    "bidNtceNo": "20240157453-00",
+    "bidNtceNm": "가상의 공사 공고 127호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_3",
+    "bidNtceDt": "2025-09-22 17:06:27",
+    "presmptPrce": 433542498,
+    "bsisAmount": 424871648.04
+  },
+  {
+    "bidNtceNo": "20240170423-00",
+    "bidNtceNm": "가상의 공사 공고 128호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_9",
+    "bidNtceDt": "2025-04-04 17:06:27",
+    "presmptPrce": 399764906,
+    "bsisAmount": 391769607.88
+  },
+  {
+    "bidNtceNo": "20240487180-00",
+    "bidNtceNm": "가상의 공사 공고 129호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_15",
+    "bidNtceDt": "2025-07-15 17:06:27",
+    "presmptPrce": 205334436,
+    "bsisAmount": 201227747.28
+  },
+  {
+    "bidNtceNo": "20241044907-00",
+    "bidNtceNm": "가상의 공사 공고 130호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_39",
+    "bidNtceDt": "2025-08-28 17:06:27",
+    "presmptPrce": 403942825,
+    "bsisAmount": 395863968.5
+  },
+  {
+    "bidNtceNo": "20240373710-00",
+    "bidNtceNm": "가상의 공사 공고 131호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_36",
+    "bidNtceDt": "2025-06-09 17:06:27",
+    "presmptPrce": 485448182,
+    "bsisAmount": 475739218.36
+  },
+  {
+    "bidNtceNo": "20241273814-00",
+    "bidNtceNm": "가상의 공사 공고 132호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_14",
+    "bidNtceDt": "2025-03-06 17:06:27",
+    "presmptPrce": 262067582,
+    "bsisAmount": 256826230.35999998
+  },
+  {
+    "bidNtceNo": "20241129527-00",
+    "bidNtceNm": "가상의 공사 공고 133호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_14",
+    "bidNtceDt": "2025-12-09 17:06:27",
+    "presmptPrce": 239483140,
+    "bsisAmount": 234693477.2
+  },
+  {
+    "bidNtceNo": "20241019595-00",
+    "bidNtceNm": "가상의 공사 공고 134호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_19",
+    "bidNtceDt": "2025-07-16 17:06:27",
+    "presmptPrce": 261742951,
+    "bsisAmount": 256508091.98
+  },
+  {
+    "bidNtceNo": "20240678098-00",
+    "bidNtceNm": "가상의 공사 공고 135호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_13",
+    "bidNtceDt": "2025-09-27 17:06:27",
+    "presmptPrce": 73054857,
+    "bsisAmount": 71593759.86
+  },
+  {
+    "bidNtceNo": "20240655356-00",
+    "bidNtceNm": "가상의 공사 공고 136호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_15",
+    "bidNtceDt": "2025-07-10 17:06:27",
+    "presmptPrce": 403710103,
+    "bsisAmount": 395635900.94
+  },
+  {
+    "bidNtceNo": "20241290929-00",
+    "bidNtceNm": "가상의 공사 공고 137호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_16",
+    "bidNtceDt": "2025-03-28 17:06:27",
+    "presmptPrce": 200378440,
+    "bsisAmount": 196370871.2
+  },
+  {
+    "bidNtceNo": "20241176059-00",
+    "bidNtceNm": "가상의 공사 공고 138호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_24",
+    "bidNtceDt": "2025-10-19 17:06:27",
+    "presmptPrce": 408982116,
+    "bsisAmount": 400802473.68
+  },
+  {
+    "bidNtceNo": "20240314118-00",
+    "bidNtceNm": "가상의 공사 공고 139호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_4",
+    "bidNtceDt": "2025-05-09 17:06:27",
+    "presmptPrce": 160699975,
+    "bsisAmount": 157485975.5
+  },
+  {
+    "bidNtceNo": "20241165078-00",
+    "bidNtceNm": "가상의 공사 공고 140호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_29",
+    "bidNtceDt": "2025-02-24 17:06:27",
+    "presmptPrce": 273603547,
+    "bsisAmount": 268131476.06
+  },
+  {
+    "bidNtceNo": "20240141668-00",
+    "bidNtceNm": "가상의 공사 공고 141호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_26",
+    "bidNtceDt": "2025-04-05 17:06:27",
+    "presmptPrce": 446268312,
+    "bsisAmount": 437342945.76
+  },
+  {
+    "bidNtceNo": "20240448523-00",
+    "bidNtceNm": "가상의 공사 공고 142호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_36",
+    "bidNtceDt": "2025-05-18 17:06:27",
+    "presmptPrce": 242985384,
+    "bsisAmount": 238125676.32
+  },
+  {
+    "bidNtceNo": "20240484667-00",
+    "bidNtceNm": "가상의 공사 공고 143호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_5",
+    "bidNtceDt": "2025-10-02 17:06:27",
+    "presmptPrce": 302302210,
+    "bsisAmount": 296256165.8
+  },
+  {
+    "bidNtceNo": "20241239650-00",
+    "bidNtceNm": "가상의 공사 공고 144호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_37",
+    "bidNtceDt": "2025-05-21 17:06:27",
+    "presmptPrce": 235633421,
+    "bsisAmount": 230920752.57999998
+  },
+  {
+    "bidNtceNo": "20240138571-00",
+    "bidNtceNm": "가상의 공사 공고 145호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_32",
+    "bidNtceDt": "2025-06-14 17:06:27",
+    "presmptPrce": 358897510,
+    "bsisAmount": 351719559.8
+  },
+  {
+    "bidNtceNo": "20240384060-00",
+    "bidNtceNm": "가상의 공사 공고 146호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_12",
+    "bidNtceDt": "2025-11-26 17:06:27",
+    "presmptPrce": 98891889,
+    "bsisAmount": 96914051.22
+  },
+  {
+    "bidNtceNo": "20240728687-00",
+    "bidNtceNm": "가상의 공사 공고 147호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_49",
+    "bidNtceDt": "2025-12-24 17:06:27",
+    "presmptPrce": 80318973,
+    "bsisAmount": 78712593.53999999
+  },
+  {
+    "bidNtceNo": "20240428415-00",
+    "bidNtceNm": "가상의 공사 공고 148호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_7",
+    "bidNtceDt": "2025-10-13 17:06:27",
+    "presmptPrce": 235944089,
+    "bsisAmount": 231225207.22
+  },
+  {
+    "bidNtceNo": "20241110231-00",
+    "bidNtceNm": "가상의 공사 공고 149호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_38",
+    "bidNtceDt": "2025-11-16 17:06:27",
+    "presmptPrce": 414515858,
+    "bsisAmount": 406225540.84
+  },
+  {
+    "bidNtceNo": "20241211050-00",
+    "bidNtceNm": "가상의 공사 공고 150호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_23",
+    "bidNtceDt": "2025-04-24 17:06:27",
+    "presmptPrce": 450837472,
+    "bsisAmount": 441820722.56
+  },
+  {
+    "bidNtceNo": "20240561414-00",
+    "bidNtceNm": "가상의 공사 공고 151호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_5",
+    "bidNtceDt": "2025-11-04 17:06:27",
+    "presmptPrce": 250989602,
+    "bsisAmount": 245969809.96
+  },
+  {
+    "bidNtceNo": "20240498841-00",
+    "bidNtceNm": "가상의 공사 공고 152호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_21",
+    "bidNtceDt": "2025-07-25 17:06:27",
+    "presmptPrce": 243023764,
+    "bsisAmount": 238163288.72
+  },
+  {
+    "bidNtceNo": "20241122054-00",
+    "bidNtceNm": "가상의 공사 공고 153호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_37",
+    "bidNtceDt": "2025-04-10 17:06:27",
+    "presmptPrce": 438650108,
+    "bsisAmount": 429877105.84
+  },
+  {
+    "bidNtceNo": "20241249701-00",
+    "bidNtceNm": "가상의 공사 공고 154호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_1",
+    "bidNtceDt": "2025-10-26 17:06:27",
+    "presmptPrce": 443261835,
+    "bsisAmount": 434396598.3
+  },
+  {
+    "bidNtceNo": "20240392385-00",
+    "bidNtceNm": "가상의 공사 공고 155호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_47",
+    "bidNtceDt": "2025-05-19 17:06:27",
+    "presmptPrce": 172002074,
+    "bsisAmount": 168562032.52
+  },
+  {
+    "bidNtceNo": "20240858535-00",
+    "bidNtceNm": "가상의 공사 공고 156호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_43",
+    "bidNtceDt": "2025-06-16 17:06:27",
+    "presmptPrce": 259984208,
+    "bsisAmount": 254784523.84
+  },
+  {
+    "bidNtceNo": "20240369989-00",
+    "bidNtceNm": "가상의 공사 공고 157호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_18",
+    "bidNtceDt": "2026-01-08 17:06:27",
+    "presmptPrce": 93167609,
+    "bsisAmount": 91304256.82
+  },
+  {
+    "bidNtceNo": "20240537070-00",
+    "bidNtceNm": "가상의 공사 공고 158호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_7",
+    "bidNtceDt": "2025-12-21 17:06:27",
+    "presmptPrce": 333710698,
+    "bsisAmount": 327036484.04
+  },
+  {
+    "bidNtceNo": "20240113816-00",
+    "bidNtceNm": "가상의 공사 공고 159호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_30",
+    "bidNtceDt": "2025-02-09 17:06:27",
+    "presmptPrce": 64190334,
+    "bsisAmount": 62906527.32
+  },
+  {
+    "bidNtceNo": "20240129428-00",
+    "bidNtceNm": "가상의 공사 공고 160호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_27",
+    "bidNtceDt": "2025-04-08 17:06:27",
+    "presmptPrce": 267287376,
+    "bsisAmount": 261941628.48
+  },
+  {
+    "bidNtceNo": "20240888257-00",
+    "bidNtceNm": "가상의 공사 공고 161호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_1",
+    "bidNtceDt": "2025-11-16 17:06:27",
+    "presmptPrce": 172031242,
+    "bsisAmount": 168590617.16
+  },
+  {
+    "bidNtceNo": "20240343601-00",
+    "bidNtceNm": "가상의 공사 공고 162호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_29",
+    "bidNtceDt": "2026-01-10 17:06:27",
+    "presmptPrce": 450565468,
+    "bsisAmount": 441554158.64
+  },
+  {
+    "bidNtceNo": "20241128304-00",
+    "bidNtceNm": "가상의 공사 공고 163호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_9",
+    "bidNtceDt": "2025-03-23 17:06:27",
+    "presmptPrce": 196716924,
+    "bsisAmount": 192782585.52
+  },
+  {
+    "bidNtceNo": "20241268965-00",
+    "bidNtceNm": "가상의 공사 공고 164호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_49",
+    "bidNtceDt": "2025-11-10 17:06:27",
+    "presmptPrce": 206481846,
+    "bsisAmount": 202352209.07999998
+  },
+  {
+    "bidNtceNo": "20240486441-00",
+    "bidNtceNm": "가상의 공사 공고 165호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_17",
+    "bidNtceDt": "2025-05-01 17:06:27",
+    "presmptPrce": 176393135,
+    "bsisAmount": 172865272.29999998
+  },
+  {
+    "bidNtceNo": "20240187361-00",
+    "bidNtceNm": "가상의 공사 공고 166호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_31",
+    "bidNtceDt": "2025-11-12 17:06:27",
+    "presmptPrce": 433951784,
+    "bsisAmount": 425272748.32
+  },
+  {
+    "bidNtceNo": "20240567123-00",
+    "bidNtceNm": "가상의 공사 공고 167호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_36",
+    "bidNtceDt": "2025-09-17 17:06:27",
+    "presmptPrce": 378082313,
+    "bsisAmount": 370520666.74
+  },
+  {
+    "bidNtceNo": "20240156773-00",
+    "bidNtceNm": "가상의 공사 공고 168호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_34",
+    "bidNtceDt": "2025-12-06 17:06:27",
+    "presmptPrce": 240926017,
+    "bsisAmount": 236107496.66
+  },
+  {
+    "bidNtceNo": "20240486896-00",
+    "bidNtceNm": "가상의 공사 공고 169호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_17",
+    "bidNtceDt": "2025-04-22 17:06:27",
+    "presmptPrce": 155570172,
+    "bsisAmount": 152458768.56
+  },
+  {
+    "bidNtceNo": "20240235188-00",
+    "bidNtceNm": "가상의 공사 공고 170호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_23",
+    "bidNtceDt": "2025-05-17 17:06:27",
+    "presmptPrce": 443666022,
+    "bsisAmount": 434792701.56
+  },
+  {
+    "bidNtceNo": "20241091008-00",
+    "bidNtceNm": "가상의 공사 공고 171호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_35",
+    "bidNtceDt": "2025-07-29 17:06:27",
+    "presmptPrce": 111393780,
+    "bsisAmount": 109165904.39999999
+  },
+  {
+    "bidNtceNo": "20241083017-00",
+    "bidNtceNm": "가상의 공사 공고 172호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_10",
+    "bidNtceDt": "2025-03-17 17:06:27",
+    "presmptPrce": 273665840,
+    "bsisAmount": 268192523.2
+  },
+  {
+    "bidNtceNo": "20240471946-00",
+    "bidNtceNm": "가상의 공사 공고 173호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_16",
+    "bidNtceDt": "2025-01-27 17:06:27",
+    "presmptPrce": 296940549,
+    "bsisAmount": 291001738.02
+  },
+  {
+    "bidNtceNo": "20240473705-00",
+    "bidNtceNm": "가상의 공사 공고 174호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_1",
+    "bidNtceDt": "2025-03-28 17:06:27",
+    "presmptPrce": 364212808,
+    "bsisAmount": 356928551.84
+  },
+  {
+    "bidNtceNo": "20241086695-00",
+    "bidNtceNm": "가상의 공사 공고 175호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_42",
+    "bidNtceDt": "2025-06-26 17:06:27",
+    "presmptPrce": 103471446,
+    "bsisAmount": 101402017.08
+  },
+  {
+    "bidNtceNo": "20241085919-00",
+    "bidNtceNm": "가상의 공사 공고 176호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_1",
+    "bidNtceDt": "2025-07-11 17:06:27",
+    "presmptPrce": 469049024,
+    "bsisAmount": 459668043.52
+  },
+  {
+    "bidNtceNo": "20240593212-00",
+    "bidNtceNm": "가상의 공사 공고 177호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_50",
+    "bidNtceDt": "2025-05-21 17:06:27",
+    "presmptPrce": 378757028,
+    "bsisAmount": 371181887.44
+  },
+  {
+    "bidNtceNo": "20240251664-00",
+    "bidNtceNm": "가상의 공사 공고 178호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_6",
+    "bidNtceDt": "2025-05-29 17:06:27",
+    "presmptPrce": 471088873,
+    "bsisAmount": 461667095.53999996
+  },
+  {
+    "bidNtceNo": "20240436478-00",
+    "bidNtceNm": "가상의 공사 공고 179호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_47",
+    "bidNtceDt": "2025-04-03 17:06:27",
+    "presmptPrce": 201886487,
+    "bsisAmount": 197848757.26
+  },
+  {
+    "bidNtceNo": "20240950717-00",
+    "bidNtceNm": "가상의 공사 공고 180호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_32",
+    "bidNtceDt": "2025-04-13 17:06:27",
+    "presmptPrce": 50121765,
+    "bsisAmount": 49119329.699999996
+  },
+  {
+    "bidNtceNo": "20240928236-00",
+    "bidNtceNm": "가상의 공사 공고 181호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_40",
+    "bidNtceDt": "2026-01-03 17:06:27",
+    "presmptPrce": 285342437,
+    "bsisAmount": 279635588.26
+  },
+  {
+    "bidNtceNo": "20240847564-00",
+    "bidNtceNm": "가상의 공사 공고 182호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_50",
+    "bidNtceDt": "2025-10-08 17:06:27",
+    "presmptPrce": 257784979,
+    "bsisAmount": 252629279.42
+  },
+  {
+    "bidNtceNo": "20241092385-00",
+    "bidNtceNm": "가상의 공사 공고 183호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_25",
+    "bidNtceDt": "2025-04-14 17:06:27",
+    "presmptPrce": 196521648,
+    "bsisAmount": 192591215.04
+  },
+  {
+    "bidNtceNo": "20240849348-00",
+    "bidNtceNm": "가상의 공사 공고 184호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_15",
+    "bidNtceDt": "2025-07-01 17:06:27",
+    "presmptPrce": 173400634,
+    "bsisAmount": 169932621.32
+  },
+  {
+    "bidNtceNo": "20240182668-00",
+    "bidNtceNm": "가상의 공사 공고 185호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_39",
+    "bidNtceDt": "2025-03-05 17:06:27",
+    "presmptPrce": 255612870,
+    "bsisAmount": 250500612.6
+  },
+  {
+    "bidNtceNo": "20240457063-00",
+    "bidNtceNm": "가상의 공사 공고 186호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_8",
+    "bidNtceDt": "2025-11-29 17:06:27",
+    "presmptPrce": 175372219,
+    "bsisAmount": 171864774.62
+  },
+  {
+    "bidNtceNo": "20241273561-00",
+    "bidNtceNm": "가상의 공사 공고 187호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_45",
+    "bidNtceDt": "2025-06-19 17:06:27",
+    "presmptPrce": 453860032,
+    "bsisAmount": 444782831.36
+  },
+  {
+    "bidNtceNo": "20240230047-00",
+    "bidNtceNm": "가상의 공사 공고 188호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_38",
+    "bidNtceDt": "2025-12-20 17:06:27",
+    "presmptPrce": 107555498,
+    "bsisAmount": 105404388.03999999
+  },
+  {
+    "bidNtceNo": "20240913368-00",
+    "bidNtceNm": "가상의 공사 공고 189호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_10",
+    "bidNtceDt": "2025-12-31 17:06:27",
+    "presmptPrce": 115475383,
+    "bsisAmount": 113165875.34
+  },
+  {
+    "bidNtceNo": "20240287937-00",
+    "bidNtceNm": "가상의 공사 공고 190호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_2",
+    "bidNtceDt": "2025-03-21 17:06:27",
+    "presmptPrce": 437636446,
+    "bsisAmount": 428883717.08
+  },
+  {
+    "bidNtceNo": "20241147299-00",
+    "bidNtceNm": "가상의 공사 공고 191호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_22",
+    "bidNtceDt": "2025-11-22 17:06:27",
+    "presmptPrce": 156755164,
+    "bsisAmount": 153620060.72
+  },
+  {
+    "bidNtceNo": "20240942286-00",
+    "bidNtceNm": "가상의 공사 공고 192호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_28",
+    "bidNtceDt": "2025-05-15 17:06:27",
+    "presmptPrce": 257153788,
+    "bsisAmount": 252010712.24
+  },
+  {
+    "bidNtceNo": "20240478297-00",
+    "bidNtceNm": "가상의 공사 공고 193호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_14",
+    "bidNtceDt": "2025-11-10 17:06:27",
+    "presmptPrce": 351911337,
+    "bsisAmount": 344873110.26
+  },
+  {
+    "bidNtceNo": "20240419416-00",
+    "bidNtceNm": "가상의 공사 공고 194호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_48",
+    "bidNtceDt": "2025-06-09 17:06:27",
+    "presmptPrce": 185006580,
+    "bsisAmount": 181306448.4
+  },
+  {
+    "bidNtceNo": "20240362136-00",
+    "bidNtceNm": "가상의 공사 공고 195호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_10",
+    "bidNtceDt": "2025-03-25 17:06:27",
+    "presmptPrce": 343317855,
+    "bsisAmount": 336451497.9
+  },
+  {
+    "bidNtceNo": "20240270071-00",
+    "bidNtceNm": "가상의 공사 공고 196호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_32",
+    "bidNtceDt": "2025-10-01 17:06:27",
+    "presmptPrce": 316133293,
+    "bsisAmount": 309810627.14
+  },
+  {
+    "bidNtceNo": "20240222561-00",
+    "bidNtceNm": "가상의 공사 공고 197호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_49",
+    "bidNtceDt": "2025-12-16 17:06:27",
+    "presmptPrce": 108571835,
+    "bsisAmount": 106400398.3
+  },
+  {
+    "bidNtceNo": "20240713678-00",
+    "bidNtceNm": "가상의 공사 공고 198호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_47",
+    "bidNtceDt": "2025-10-10 17:06:27",
+    "presmptPrce": 300159606,
+    "bsisAmount": 294156413.88
+  },
+  {
+    "bidNtceNo": "20241167907-00",
+    "bidNtceNm": "가상의 공사 공고 199호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_23",
+    "bidNtceDt": "2025-10-06 17:06:27",
+    "presmptPrce": 319033764,
+    "bsisAmount": 312653088.71999997
+  },
+  {
+    "bidNtceNo": "20240923333-00",
+    "bidNtceNm": "가상의 공사 공고 200호 [테스트 데이터]",
+    "ntceInsttNm": "조달청",
+    "dminsttNm": "수요기관_2",
+    "bidNtceDt": "2025-03-24 17:06:27",
+    "presmptPrce": 98435358,
+    "bsisAmount": 96466650.84
+  }
+]

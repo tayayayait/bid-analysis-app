@@ -1,0 +1,73 @@
+.settings-page {
+    padding: var(--space-6);
+    max-width: 800px;
+}
+
+.theme-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.data-actions {
+    display: flex;
+    gap: var(--space-4);
+}
+
+.text-secondary {
+    color: var(--color-text-secondary);
+}
+.sync-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: var(--space-4);
+}
+
+.sync-block {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+}
+
+.sync-option {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    color: var(--color-text-secondary);
+}
+
+.sync-date {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+}
+
+.sync-actions {
+    margin-top: var(--space-4);
+}
+
+.sync-log {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: var(--space-2);
+    color: var(--color-text-secondary);
+    font-size: 0.9rem;
+}
+
+.api-key-row {
+    display: flex;
+    gap: var(--space-3);
+    align-items: flex-end;
+}
+
+.api-key-input {
+    flex: 1;
+    min-width: 240px;
+}
+
+.api-key-save {
+    white-space: nowrap;
+}
+

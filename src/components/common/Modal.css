@@ -1,0 +1,126 @@
+/**
+ * Modal 컴포넌트 스타일
+ * 상세서.md 7.4 모달 규격 기반
+ */
+
+/* 백드롭 */
+.modal-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: var(--z-modal-backdrop);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    animation: fadeIn var(--duration-fast) var(--ease-out);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* 모달 컨테이너 */
+.modal {
+    z-index: var(--z-modal);
+    display: flex;
+    flex-direction: column;
+    max-height: 90vh;
+    background: var(--color-bg-primary);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-xl);
+    animation: slideUp var(--duration-normal) var(--ease-out);
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 사이즈 */
+.modal-small {
+    width: 400px;
+}
+
+.modal-medium {
+    width: 560px;
+}
+
+.modal-large {
+    width: 720px;
+}
+
+.modal-full {
+    width: 90vw;
+    max-width: 1200px;
+}
+
+/* 헤더 */
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 56px;
+    padding: 0 var(--space-6);
+    border-bottom: 1px solid var(--color-border-light);
+    flex-shrink: 0;
+}
+
+.modal-title {
+    margin: 0;
+    color: var(--color-text-primary);
+}
+
+.modal-close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    border: none;
+    background: transparent;
+    color: var(--color-text-secondary);
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: var(--radius-sm);
+    transition: all var(--duration-fast) var(--ease-out);
+}
+
+.modal-close:hover {
+    background: var(--color-bg-secondary);
+    color: var(--color-text-primary);
+}
+
+/* 바디 */
+.modal-body {
+    flex: 1;
+    padding: var(--space-6);
+    overflow-y: auto;
+    max-height: 60vh;
+}
+
+/* 푸터 */
+.modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: var(--space-3);
+    height: 64px;
+    padding: 0 var(--space-6);
+    border-top: 1px solid var(--color-border-light);
+    align-items: center;
+    flex-shrink: 0;
+}
